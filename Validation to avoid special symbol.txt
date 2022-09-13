@@ -1,0 +1,2 @@
+1)Avoid special symbol in text.
+NOT(REGEX( Name , "^[a-zA-Z0-9_]*$"))
